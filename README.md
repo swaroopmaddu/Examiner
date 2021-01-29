@@ -1,6 +1,6 @@
 # Examiner
 
-   Examiner is an online Examination System developed for educational institutes to conduct MCQ's test for their students on regular basis. As far as design is concerned no design is complete ever and there are chances of improvement at each moment. However performing all the necessary testing, we will conclude that our design will implement properly that it absolutely was made.
+   Examiner is an online Examination System developed for educational institutes to conduct MCQ's test for their students on regular basis. As far as design is concerned no design is complete ever and there are chances of improvement at each moment.
    
 # Project Objective
 
